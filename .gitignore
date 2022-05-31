@@ -1,0 +1,8 @@
+
+
+#comments can be placed here
+/test.txt
+#*.txt
+*.js
+images/
+!main1.js
